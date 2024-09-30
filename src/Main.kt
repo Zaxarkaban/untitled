@@ -1,3 +1,5 @@
+//Пасларь Артём Игоревич 52-02
+
 import java.util.Scanner
 
 fun main() {
