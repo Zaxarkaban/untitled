@@ -1,4 +1,5 @@
 //Пасларь Артём Игоревич 52-02
+//qweqwe
 
 import java.util.Scanner
 
