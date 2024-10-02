@@ -1,3 +1,5 @@
+package работа1
+
 import java.util.Scanner
 
 fun main() {
